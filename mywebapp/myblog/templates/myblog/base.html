@@ -39,7 +39,7 @@
                     <form action="{% url 'logout' %}" method="POST" class="nav-item">
                         {% csrf_token %}
                         <button type="submit" class="nav-link btn btn-link">
-                            <i class="fas fa-power-off"></i> <!-- Power Off -->
+                            <i class="fas fa-power-off"></i> <!-- Power Off -->      
                         </button>
                     </form>
                 {% else %}
