@@ -1,6 +1,12 @@
 # Blog WebApp using Django
 This is a WebApp for creating and reading blogs powered by django. The file storage and static files are hosted on a Azure container.
 
+### Home Screen
+![Home Page](https://github.com/quirrelHK/Django-WebApp/blob/main/mywebapp/media/about/home.png)
+
+### Profile Screen
+![Home Page](https://github.com/quirrelHK/Django-WebApp/blob/main/mywebapp/media/about/profile.png)
+
 ## How to run the App
 ### Clone this repo
 ```console
